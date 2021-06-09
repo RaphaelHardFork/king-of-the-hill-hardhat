@@ -1,0 +1,9 @@
+{
+  "name": "king-of-the-hill",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.3.0"
+  }
+}
